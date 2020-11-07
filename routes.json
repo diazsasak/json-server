@@ -1,5 +1,4 @@
 {
-  "/api/": "/",
-  "/blog/:resource/:id/show": "/:resource/:id",
-  "/blog/:category": "/posts?category=:category"
+  "/api/v1/*": "/$1",
+  "/feed/:id/subscribe": "/subscriptions/subsId:id"
 }

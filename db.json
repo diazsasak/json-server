@@ -1,9 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "feeds": [
+    { "id": 1, "feedName": "Feed 1" },
+    { "id": 2, "feedName": "Feed 2" },
+    { "id": 3, "feedName": "Feed 3" },
+    { "id": 4, "feedName": "Feed 4" },
+    { "id": 5, "feedName": "Feed 5" },
+    { "id": 6, "feedName": "Feed 6" },
+    { "id": 7, "feedName": "Feed 7" },
+    { "id": 8, "feedName": "Feed 8" },
+    { "id": 9, "feedName": "Feed 9" },
+    { "id": 10, "feedName": "Feed 10" },
+    { "id": 11, "feedName": "Feed 11" },
+    { "id": 12, "feedName": "Feed 12" },
+    { "id": 13, "feedName": "Feed 13" },
+    { "id": 14, "feedName": "Feed 14" },
+    { "id": 15, "feedName": "Feed 15" },
+    { "id": 16, "feedName": "Feed 16" },
+    { "id": 17, "feedName": "Feed 17" },
+    { "id": 18, "feedName": "Feed 18" },
+    { "id": 19, "feedName": "Feed 19" },
+    { "id": 20, "feedName": "Feed 20" },
+    { "id": 21, "feedName": "Feed 21" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "subscriptions": [
+    { "id": "subsId1", "feedId": 1 },
+    { "id": "subsId2", "feedId": 2 },
+    { "id": "subsId3", "feedId": 3 },
+    { "id": "subsId4", "feedId": 4 },
+    { "id": "subsId5", "feedId": 5 },
+    { "id": "subsId6", "feedId": 6 },
+    { "id": "subsId7", "feedId": 7 },
+    { "id": "subsId8", "feedId": 8 },
+    { "id": "subsId9", "feedId": 9 },
+    { "id": "subsId10", "feedId": 10 },
+    { "id": "subsId11", "feedId": 11 },
+    { "id": "subsId12", "feedId": 12 },
+    { "id": "subsId13", "feedId": 13 },
+    { "id": "subsId14", "feedId": 14 },
+    { "id": "subsId15", "feedId": 15 },
+    { "id": "subsId16", "feedId": 16 },
+    { "id": "subsId17", "feedId": 17 },
+    { "id": "subsId18", "feedId": 18 },
+    { "id": "subsId19", "feedId": 19 },
+    { "id": "subsId20", "feedId": 20 },
+    { "id": "subsId21", "feedId": 21 }
+  ]
 }
